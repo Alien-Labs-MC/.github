@@ -1,2 +1,2 @@
-# Alien Labs MC
-We create awesome plugins for Minecraft servers.
+# .github
+A repository for public information about AlienLabsMC.
